@@ -1,1 +1,2 @@
-# mevn-medium
+# mevn-boilerplate
+> Posts Manager
